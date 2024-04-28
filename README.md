@@ -32,7 +32,7 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1dUwCHVP1qSmzz_oJoz1EgucmpZIKk-DK/view?usp=drive_link)
 
 
 ## Authors
