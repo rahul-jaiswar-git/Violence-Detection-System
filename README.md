@@ -1,4 +1,6 @@
-
+> ##  🚧 Work In Progress<br>
+> ### This project is under active development and might include breaking changes.
+> 
 # Violence Detection System
 
 Welcome to the Violence Detection System repository! This project aims to detect violence in video streams using deep learning techniques. By analyzing video footage in real-time, the system can identify potentially violent situations and alert appropriate authorities for timely intervention.
